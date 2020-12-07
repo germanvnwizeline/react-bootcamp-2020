@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-bootcamp-2020/static/css/main.6968fbd9.chunk.css",
+    "main.js": "/react-bootcamp-2020/static/js/main.5e2fa022.chunk.js",
+    "main.js.map": "/react-bootcamp-2020/static/js/main.5e2fa022.chunk.js.map",
+    "runtime-main.js": "/react-bootcamp-2020/static/js/runtime-main.2724eb93.js",
+    "runtime-main.js.map": "/react-bootcamp-2020/static/js/runtime-main.2724eb93.js.map",
+    "static/js/2.48361287.chunk.js": "/react-bootcamp-2020/static/js/2.48361287.chunk.js",
+    "static/js/2.48361287.chunk.js.map": "/react-bootcamp-2020/static/js/2.48361287.chunk.js.map",
+    "index.html": "/react-bootcamp-2020/index.html",
+    "precache-manifest.3ab029e2152499321bebcdd6a84acdec.js": "/react-bootcamp-2020/precache-manifest.3ab029e2152499321bebcdd6a84acdec.js",
+    "service-worker.js": "/react-bootcamp-2020/service-worker.js",
+    "static/css/main.6968fbd9.chunk.css.map": "/react-bootcamp-2020/static/css/main.6968fbd9.chunk.css.map",
+    "static/js/2.48361287.chunk.js.LICENSE.txt": "/react-bootcamp-2020/static/js/2.48361287.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2724eb93.js",
+    "static/js/2.48361287.chunk.js",
+    "static/css/main.6968fbd9.chunk.css",
+    "static/js/main.5e2fa022.chunk.js"
+  ]
+}
